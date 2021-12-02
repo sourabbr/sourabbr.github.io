@@ -1,7 +1,7 @@
 ## PROJECTS
 
 ### Text Summarizer
-[Text Summarizer](https://github.com/sourabbr/Text_summarizer)
+[### Text Summarizer](https://github.com/sourabbr/Text_summarizer)
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
