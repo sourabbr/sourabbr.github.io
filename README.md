@@ -1,6 +1,5 @@
 ## PROJECTS
 
-### Text Summarizer
 [### Text Summarizer](https://github.com/sourabbr/Text_summarizer)
 
 ### Markdown
