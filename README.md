@@ -1,5 +1,3 @@
-![Sourab Bavikatte Ravi](profile_image.jpeg)
-
 ## PROJECTS
 
 ### [Text Summarizer](https://sourabbr.github.io/Text_Summarizer/)
