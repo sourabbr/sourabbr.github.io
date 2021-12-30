@@ -12,4 +12,4 @@
 ## PUBLICATIONS
 
 ### [Forensic Sketch to Face Image Transormation Using CycleGAN](https://www.irjet.net/archives/V8/i7/IRJET-V8I7642.pdf)
-### Analysis of Hardware Impact on Software Performance
+### [Analysis of Hardware Impact on Software Performance](https://www.irjet.net/archives/V8/i12/IRJET-V8I12223.pdf)
